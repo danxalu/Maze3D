@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: f61b0604fb1e28c40b0e5605d6af2b0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - Player_1: {instanceID: 0}
+  - Player_2: {instanceID: 0}
+  - Player_3: {instanceID: 0}
+  - Player_4: {instanceID: 0}
+  - Player_5: {instanceID: 0}
+  - Player_6: {instanceID: 0}
+  - Player_7: {instanceID: 0}
+  - Player_8: {instanceID: 0}
+  - Player_9: {instanceID: 0}
+  - Player_10: {instanceID: 0}
+  - Player_11: {instanceID: 0}
+  - Player_12: {instanceID: 0}
+  - Player_13: {instanceID: 0}
+  - Player_14: {instanceID: 0}
+  - Player_15: {instanceID: 0}
+  - LeftButton: {instanceID: 0}
+  - RightButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
